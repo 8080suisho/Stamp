@@ -60,5 +60,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>アプリ内で編集する画像をフォトライブラリから呼び出します</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>編集した画像をフォトライブラリに保存します</string>
 </dict>
 </plist>
